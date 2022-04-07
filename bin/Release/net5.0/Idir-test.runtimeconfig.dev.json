@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/imeskine/.dotnet/store/|arch|/|tfm|",
+      "/Users/imeskine/.nuget/packages"
+    ]
+  }
+}
